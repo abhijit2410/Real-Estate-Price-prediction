@@ -1,4 +1,7 @@
 # Real-Estate-Price-prediction
+<p>
+    <img height="400px" width="900px" src="https://user-images.githubusercontent.com/77913276/227735067-68ea640b-a036-4187-b96e-53810cc0f46d.jpg">
+</p>
 This repository contains a real estate price prediction model that uses machine learning algorithms to predict the sale price of real estate properties at Boston. The model is based on a dataset that includes various features of properties, such as the **number of bedrooms, bathrooms, square footage, and location**.
 
 The project is built using Python programming language and utilizes several libraries, including **Pandas, Numpy, Scikit-learn, and Matplotlib**. The dataset used in this project is publicly available and has been preprocessed to ensure its accuracy and completeness.
